@@ -1,8 +1,8 @@
 {
-  "name": "template",
+  "name": "ngmk-frontend",
   "version": "0.0.1",
-  "description": "A Quasar Project",
-  "productName": "Template App",
+  "description": "Navoiy Uran billing tizimi",
+  "productName": "Navoiy Uran billing tizimi",
   "author": "Developer <diyorbektoraboyev782@gmail.com>",
   "private": true,
   "scripts": {
